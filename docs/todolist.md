@@ -1,0 +1,54 @@
+Helpinator allows you to create and manage to-do lists - both for individual topics and the project as a whole. Using this little feature you are able to:
+
+
+
+
+
+Control your tech writers. Of course, this is not a full-featured project planner app with team features, but good enough for small teams and interacting with contractors.
+Keep your global to-do list free from small tasks associated with this project.
+Go to the place where a task should be accomplished, without wasting time on finding it.
+Never forget to to something on your project.
+
+
+
+
+There are two places to work with tasks:
+
+
+
+
+1. "ToDo" tab at the bottom of the topic editor. This tab allows to add/manage tasks assigned to this topic.
+
+
+
+
+![](images/eng-ed-todo.png "")
+
+
+
+
+
+
+2. Global project to-do list with all tasks from all topics and the project itself.
+
+
+
+
+![](images/globaltasks.png "")
+
+
+
+
+To add a task for the project itself, not a topic, click "Add" in this global list.
+
+
+
+
+
+
+There's also a way to get printed version of your tasks list. Locate "Tasks by topics" report under "Reports" node and run it.
+
+
+
+
+![](images/tasksbytopics.png "")

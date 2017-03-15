@@ -13,4 +13,4 @@ Then select color style from "Style" selector and add any shape, arrow or callou
 
 
 
-![](images/editimage.png "")
+![Test](images/editimage.png "Test")

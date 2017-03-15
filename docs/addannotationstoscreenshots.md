@@ -3,7 +3,7 @@ You can add callouts and annotations to the images stored in the image library. 
 
 
 
-![](https://help-authoring-tool.github.io/helpinator-markdown/images/editimage-shape.png "")
+![Edit Image](https://help-authoring-tool.github.io/helpinator-markdown/images/editimage-shape.png "Edit Image")
 
 
 

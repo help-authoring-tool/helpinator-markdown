@@ -28,7 +28,7 @@ Select Tools->Replace bitmap when basic image is open in the editor.
 
 ![{8C38A465-9091-4584-846F-3B76DB4DF344}.png](images/%7B8C38A465-9091-4584-846F-3B76DB4DF344%7D.png "{8C38A465-9091-4584-846F-3B76DB4DF344}.png")
 
-Now all cloned images are updated:
+Now all cloned images are updated :
 
 ![{B9F6839E-6B6B-4073-B60A-3981907DF019}.png](images/%7BB9F6839E-6B6B-4073-B60A-3981907DF019%7D.png "{B9F6839E-6B6B-4073-B60A-3981907DF019}.png")
 

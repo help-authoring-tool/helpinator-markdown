@@ -1,12 +1,12 @@
 ## Cloned Images
 
-Helpinator’s “Image Library” allows you to create “cloned” images. What are they?
+Helpinator’s Image Library allows you to create cloned images. What are they?
 
 Let’s say you have a big complicated tool bar in your application. You need to explain your users how to work with it, what buttons trigger specific actions, all grouped by specific tasks… This probably will require a lot of copies of the toolbar image, each one with it’s own callouts, arrows and text boxes, but all with the same background – application toolbar.
 
-Now suppose that during project evolution toolbar changes significantly – updated icons, some new buttons. Now you need to update a bunch of images to reflect changes in the UI. That could be a nightmare! But not if you use Helpinator’s image library and “cloned” images.
+Now suppose that during project evolution toolbar changes significantly – updated icons, some new buttons. Now you need to update a bunch of images to reflect changes in the UI. That could be a nightmare! But not if you use Helpinator’s image library and cloned images.
 
-In the following example will’ take a look at one simple but very common situation. Suppose you have a set of images in your project, describing different parts of the toolbar, but all of them contain application name and version in the window title like this:
+In the following example we will take a look at one simple but very common situation. Suppose you have a set of images in your project, describing different parts of the toolbar, but all of them contain application name and version in the window title like this:
 
 ![&#123;264733B0-0907-4710-BF67-CFFF8D2A5163&#125;.png](images/&#37;7B264733B0-0907-4710-BF67-CFFF8D2A5163&#37;7D.png "&#123;264733B0-0907-4710-BF67-CFFF8D2A5163&#125;.png")
 
@@ -18,7 +18,7 @@ Another for compile buttons, and so on…
 
 ![&#123;3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78&#125;.png](images/&#37;7B3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78&#37;7D.png "&#123;3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78&#125;.png")
 
-We’ll make the first one “donor” image and two other images will be cloned.
+We’ll make the first one donor image and two other images will be cloned.
 
 ![&#123;5ADA7F41-A0D2-4BFB-8C5B-040128C05FF5&#125;.png](images/&#37;7B5ADA7F41-A0D2-4BFB-8C5B-040128C05FF5&#37;7D.png "&#123;5ADA7F41-A0D2-4BFB-8C5B-040128C05FF5&#125;.png")
 

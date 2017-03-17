@@ -14,11 +14,7 @@ HTML templates use several tags, enclosed in &#123;&#37;&#37;&#125;:
 
 
 <table>
-<tr><th>TRVTableCellData</th><th>TRVTableCellData</th></tr><tr><td><p>
-<b>Tag</b>
-</p></td><td><p>
-<b>Meaning</b>
-</p></td></tr><tr><td><p>
+<tr><th>Tag</th><th>Meaning</th></tr><tr><td></td><td></td></tr><tr><td><p>
 TITLE
 </p></td><td><p>
 Title of the current topic

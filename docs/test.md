@@ -1,1 +1,1 @@
-![test](images/%7B5ADA7F41-A0D2-4BFB-8C5B-040128C05FF5%7D.png "test.png")
+![test](images/5ADA7F41-A0D2-4BFB-8C5B-040128C05FF5.png "test.png")

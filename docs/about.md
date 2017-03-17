@@ -3,7 +3,7 @@
 Helpinator is a  **help authoring tool**  for teams and individuals who document their software project themselves. It's relatively inexpensive and not as bloated as big tech writing packages.
 
 
-Helpinator is a single source tool. You can compile  **CHM** ,  **PDF** ,  **RTF** ,  **DOCX** ,  **WebHelp (Classic and New WebHelp2)** ,  **Mobile** , ** GitHub-flavored Markdown** ,  **Printed Manuals** ,  **EPUB**  and  **MOBI**  ebooks,  **JavaHelp** ,  **OracleHelp** ,  **HelpGUI**  all from single source. You can even create software documentation  **WordPress themes**  and publish your online documentation to  **WordPress** !
+Helpinator is a single source tool. You can compile  **CHM** ,  **PDF** ,  **RTF** ,  **DOCX** ,  **WebHelp (Classic and New WebHelp2)** ,  **Mobile** , **GitHub-flavored Markdown** ,  **Printed Manuals** ,  **EPUB**  and  **MOBI**  ebooks,  **JavaHelp** ,  **OracleHelp** ,  **HelpGUI**  all from single source. You can even create software documentation  **WordPress themes**  and publish your online documentation to  **WordPress** !
 
 Helpinator is a WYSIWYG tool. Write content in friendly environment.
 
